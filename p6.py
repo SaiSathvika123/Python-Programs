@@ -1,0 +1,10 @@
+#program to primt the product details
+pi=input("Enter product id\n")
+pn=input("Enter product name\n")
+pp=input("Enter product price\n")
+pq=input("Enter product quantity\n")
+print("*********PRODUCT DETAILS*********")
+print("Product id is",pi)
+print("Product name is",pn)
+print("Product price is",pp)
+print("Product quantity is",pq)
